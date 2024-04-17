@@ -7,6 +7,12 @@ Sou um desenvolvedor de software especializado em frontend, com mais de um ano d
 - Sou apaixonado por tecnologia e estou sempre buscando aprender mais.
 - Tenho uma paixão especial por escrever código e transformar ideias em realidade.
 
+### Entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatang7/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/38998221425)
+
+
 ## Principais Projetos:
 
 - **Connect:** Um aplicativo desenvolvido para contribuir com o IFNMG - Campus Januária. [Saiba mais](https://github.com/Jxnatan7/Connect).
