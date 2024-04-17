@@ -2,6 +2,18 @@
 
 Sou um desenvolvedor de software especializado em frontend, com mais de um ano de experiência em programação.
 
+## Quer saber mais sobre mim?
+
+- Sou apaixonado por tecnologia e estou sempre buscando aprender mais.
+- Tenho uma paixão especial por escrever código e transformar ideias em realidade.
+
+## Principais Projetos:
+
+- **Connect:** Um aplicativo desenvolvido para contribuir com o IFNMG - Campus Januária. [Saiba mais](https://github.com/Jxnatan7/Connect).
+
+- **BarberPlus:** Um sistema para barbearias projetado para facilitar o gerenciamento. [Saiba mais](https://github.com/Jxnatan7/BarberPlus).
+
+
 ## 🚀 Experiência e Tecnologias:
 
 ### Linguagens:
