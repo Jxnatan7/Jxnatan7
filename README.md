@@ -15,17 +15,7 @@ Sou um desenvolvedor de software fullstack especializado em Node, Java, Typescri
 
 ## Principais Projetos:
 
-- **My Finance:** Um sistema de gerenciamento de finanças. [Saiba mais](https://github.com/Jxnatan7/my-finance-api).
-
-- **VAI DE CAR:** Plataforma de transporte para motoristas e passageiros (Em desenvolvimento). [Saiba mais](https://github.com/Jxnatan7/vai-de-car).
-
-- **Green Nest:** E-commerce (Em desenvolvimento). [Saiba mais](https://github.com/Jxnatan7/GreenNest).
-
-- **Rinha de Backend:** O projeto que foi desenvolvido na minha participação na [Segunda edição da **rinha de backend**](https://github.com/zanfranceschi/rinha-de-backend-2024-q1). [Saiba mais](https://github.com/Jxnatan7/rinha-de-backend).
-
-- **Connect:** Um aplicativo desenvolvido para contribuir com o IFNMG - Campus Januária. [Saiba mais](https://github.com/Jxnatan7/Connect).
-
-- **BarberPlus:** Um sistema para barbearias projetado para facilitar o gerenciamento. [Saiba mais](https://github.com/Jxnatan7/BarberPlus).
+- **Easy App:** Projeto Open Source para desenvolvimento de softwares robustos e escaláveis. [Saiba mais](https://github.com/Jxnatan7/easy-app).
 
 
 ## 🚀 Experiência e Tecnologias:
@@ -40,7 +30,6 @@ Sou um desenvolvedor de software fullstack especializado em Node, Java, Typescri
 - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
 ### Bibliotecas de Estilos:
