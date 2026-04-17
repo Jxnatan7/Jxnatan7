@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! Eu sou o Jonatan 👋
 
-Sou um desenvolvedor de software fullstack especializado em Node, Java, Typescript e trabalho na [Yuzer](https://yuzer.com.br/).
+Sou um desenvolvedor de software fullstack especializado em Node, Java e Typescript.
 
 ## Quer saber mais sobre mim?
 
